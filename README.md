@@ -1,2 +1,2 @@
 # golang
-Exercícios de golang
+Exercícios golang
