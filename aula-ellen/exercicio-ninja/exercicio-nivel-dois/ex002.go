@@ -1,3 +1,10 @@
+//Escreva expressões utilizando os seguintes operadores, e atribua seus valores a variáveis.
+//1 - ==
+//2 - !=
+//3 - <=
+//4 - <
+//5 - =
+
 package main
 
 import "fmt"
