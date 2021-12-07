@@ -1,5 +1,5 @@
 # golang
-Exercícios em golang
+Exercícios de GOLANG
 
 Go (Golang): Explorando a Linguagem do Google (Cod3r Cursos Online):
  https://www.udemy.com/course/curso-go/learn/lecture/8598994#overview
