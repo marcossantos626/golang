@@ -28,6 +28,15 @@ func main() {
 		titulo:  "QA",
 		salario: 7985.98,
 	}
+	pessoa3 := profissional{
+		pessoa: pessoa{
+			nome:  "Minerva",
+			idade: 39,
+		},
+		titulo:  "RH",
+		salario: 3885.98,
+	}
 	fmt.Println(pessoa1)
 	fmt.Println(pessoa2)
+	fmt.Println(pessoa3)
 }
